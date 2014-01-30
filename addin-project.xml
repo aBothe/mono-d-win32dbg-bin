@@ -1,0 +1,5 @@
+<AddinProject appVersion="4.0">
+        <Project platforms="Win32">
+                <AddinFile>MonoDevelop.D.Debugger.DbgEng.dll</AddinFile>
+        </Project>
+</AddinProject>
